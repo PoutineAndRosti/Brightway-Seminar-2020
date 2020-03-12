@@ -20,5 +20,5 @@ dependencies:
   - seaborn
   - xarray
   - xlrd
-  - pip
+  - pip:
     - bw2temporalis
