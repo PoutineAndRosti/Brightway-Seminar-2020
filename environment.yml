@@ -10,9 +10,8 @@ dependencies:
   - brightway2
   - bw2calc >=1.8.0
   - bw2data >=3.6.2
-  - bw2io >=0.7.12
+  - bw2io >=0.7.12.1
   - bw2speedups
-  - bw2temporalis
   - carculator
   - klausen
   - matplotlib
@@ -21,3 +20,5 @@ dependencies:
   - seaborn
   - xarray
   - xlrd
+  - pip
+    - bw2temporalis
