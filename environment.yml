@@ -1,24 +1,23 @@
 name: bw2class
 channels:
   - conda-forge
-  - defaults
   - cmutel
   - haasad
   - cardosan
-  - romainsacchi
+  - romainsacchi/label/nightly
 dependencies:
-  - python=3.7
+  - python =3.7
   - brightway2
-  - bw2calc>=1.8.0
-  - bw2data>=3.6.2
-  - bw2io>=0.7.12
+  - bw2calc >=1.8.0
+  - bw2data >=3.6.2
+  - bw2io >=0.7.12
   - bw2speedups
+  - bw2temporalis
   - carculator
   - klausen
   - matplotlib
   - numexpr
   - pandas
   - seaborn
-  - temporalis
   - xarray
   - xlrd
