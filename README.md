@@ -4,6 +4,8 @@
 
 This is a one-day introduction to Brightway and advanced LCA concepts using notebooks run online.
 
+*Warning:* Not all workbooks are updated or functional!
+
 To start the notebooks, click on the badge above.
 
 ## Schedule
